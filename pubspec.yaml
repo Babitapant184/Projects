@@ -1,0 +1,13 @@
+name: projects
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # For maps
+  google_maps_flutter: ^2.0.0
+  # For location
+  geolocator: ^9.0.0
+  # For date & time
+  intl: ^0.17.0
+  # For data storage
+  shared_preferences: ^2.0.0
